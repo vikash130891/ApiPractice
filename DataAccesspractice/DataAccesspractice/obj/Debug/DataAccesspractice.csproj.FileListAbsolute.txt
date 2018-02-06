@@ -4,3 +4,9 @@ c:\users\vikash kumar\documents\visual studio 2015\Projects\DataAccesspractice\D
 c:\users\vikash kumar\documents\visual studio 2015\Projects\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.csprojResolveAssemblyReference.cache
 c:\users\vikash kumar\documents\visual studio 2015\Projects\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.dll
 c:\users\vikash kumar\documents\visual studio 2015\Projects\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.pdb
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\bin\Debug\DataAccesspractice.dll.config
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\bin\Debug\DataAccesspractice.dll
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\bin\Debug\DataAccesspractice.pdb
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.csprojResolveAssemblyReference.cache
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.dll
+C:\Users\Vikash Kumar\Documents\Visual Studio 2015\Projects\APIPractice\APIPractice\DataAccesspractice\DataAccesspractice\obj\Debug\DataAccesspractice.pdb
